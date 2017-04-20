@@ -185,3 +185,8 @@ Translates the position of the character to moulinette format.
 ```
  const arcade::GetMap *get_map(void) const;
  ```
+
+## Scores
+
+To use the scores you need to declare an instance of the `Scores object` and call the member function `init`.
+See `Init` function from `Game functions`.
