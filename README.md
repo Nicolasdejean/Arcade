@@ -18,7 +18,7 @@ Those Interfaces implement function prototypes used by all the classes linked to
 
 ## Description of our program
 
-[Arcade](arcade.png)
+[Arcade](Diagram.jpg)
 
 
 ## Clone the project
